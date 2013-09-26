@@ -1,0 +1,303 @@
+Nasal 	
+m̥ 	
+m 		
+ɱ 		
+n̪ 	
+n̥ 	
+n 		
+n̠ 	
+ɳ̊ 	
+ɳ 		
+ɲ̟ 	
+ɲ̊ 	
+ɲ 	
+ŋ̊ 	
+ŋ 		
+ɴ 			
+Stop 	
+p 	
+b 	
+p̪ 	
+b̪ 	
+t̪ 	
+d̪ 	
+t 	
+d 		
+ʈ 	
+ɖ 			
+c 	
+ɟ 	
+k 	
+ɡ 	
+q 	
+ɢ 		
+ʡ 	
+ʔ
+
+
+
+<tbody><tr>
+<td style="font-size:100%; text-align:center; line-height:1.25em; background:#F2F2CE; border:1px solid #aaa" colspan="27">
+<div style="float:left; text-align:left; padding-left:0.25em; font-size:85%">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:IPA_consonant_chart" title="Template:IPA consonant chart"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:IPA_consonant_chart" title="Template talk:IPA consonant chart"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:IPA_consonant_chart&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</div>
+<b><strong class="selflink">IPA</strong> <a href="/wiki/Pulmonic_consonant" title="Pulmonic consonant">pulmonic consonants</a></b><span style="float:right; width:13em; text-align:right; padding-right:0.25em; font-size:67%"><a href="/wiki/File:IPA_consonants_2005.png" title="File:IPA consonants 2005.png">chart image</a>&nbsp;• <a href="/wiki/IPA_pulmonic_consonant_chart_with_audio" title="IPA pulmonic consonant chart with audio"><img alt="Loudspeaker.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" height="11" width="11"></a> <a href="/wiki/IPA_pulmonic_consonant_chart_with_audio" title="IPA pulmonic consonant chart with audio">audio</a></span></td>
+</tr>
+<tr style="vertical-align:top; line-height:2.0em; font-size:67%;">
+<td style="border:2px solid; border-width:0px 2px 0px 1px; text-align:right"><a href="/wiki/Place_of_articulation" title="Place of articulation">Place</a>&nbsp;→</td>
+<td colspan="4" style="border:1px solid; border-width:0px 1px 1px 0"><a href="/wiki/Labial_consonant" title="Labial consonant">Labial</a></td>
+<td colspan="9" style="width:12em; border:1px solid; border-width:0px 1px 1px 0"><a href="/wiki/Coronal_consonant" title="Coronal consonant">Coronal</a></td>
+<td colspan="7" style="width:9em; border:1px solid; border-width:0px 1px 1px 0"><a href="/wiki/Dorsal_consonant" title="Dorsal consonant">Dorsal</a></td>
+<td colspan="4" style="border:1px solid; border-width:0px 1px 1px 0"><a href="/wiki/Radical_consonant" title="Radical consonant">Radical</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 1px 0"><a href="/wiki/Glottal_consonant" title="Glottal consonant">Glottal</a></td>
+</tr>
+<tr style="vertical-align:top; font-size:67%; border:2px solid; border-width:0px 0px 2px">
+<td style="width:*; border:2px solid; border-width:0px 2px 2px 1px; vertical-align:bottom; text-align:left;">↓&nbsp;<a href="/wiki/Manner_of_articulation" title="Manner of articulation">Manner</a></td>
+<td colspan="2" style="width:3em;"><a href="/wiki/Bilabial_consonant" title="Bilabial consonant">Bila­bial</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Labiodental_consonant" title="Labiodental consonant">Labio-​dental</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Dental_consonant" title="Dental consonant">Den​tal</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Alveolar_consonant" title="Alveolar consonant">Alve​olar</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Postalveolar_consonant" title="Postalveolar consonant">Post­alveolar</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Retroflex_consonant" title="Retroflex consonant">Retro​flex</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Alveolo-palatal_consonant" title="Alveolo-palatal consonant">Alveolo-​palatal</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Palatal_consonant" title="Palatal consonant">Pal​a​tal</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Velar_consonant" title="Velar consonant">Ve​lar</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Uvular_consonant" title="Uvular consonant">Uvu​lar</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Pharyngeal_consonant" title="Pharyngeal consonant">Pha​ryn​geal</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Epiglottal_consonant" title="Epiglottal consonant">Epi​glot​tal</a></td>
+<td colspan="2" style="border:1px solid; border-width:0px 1px 0"><a href="/wiki/Glottal_consonant" title="Glottal consonant">Glot​tal</a></td>
+</tr>
+<tr>
+<td style="text-align:left; font-size:67%; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Nasal_stop" title="Nasal stop" class="mw-redirect">Nasal</a></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_bilabial_nasal" title="Voiceless bilabial nasal">m̥</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Bilabial_nasal" title="Bilabial nasal">m</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Labiodental_nasal" title="Labiodental nasal">ɱ</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Dental_nasal" title="Dental nasal">n̪</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_nasal" title="Voiceless alveolar nasal">n̥</a></span></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolar_nasal" title="Alveolar nasal">n</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Postalveolar_nasal" title="Postalveolar nasal">n̠</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_retroflex_nasal" title="Voiceless retroflex nasal">ɳ̊</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Retroflex_nasal" title="Retroflex nasal">ɳ</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-right:none; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolo-palatal_nasal" title="Alveolo-palatal nasal" class="mw-redirect">ɲ̟</a></span></td>
+<td style="border:1px solid; border-left:none; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palatal_nasal" title="Voiceless palatal nasal">ɲ̊</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Palatal_nasal" title="Palatal nasal">ɲ</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_velar_nasal" title="Voiceless velar nasal">ŋ̊</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Velar_nasal" title="Velar nasal">ŋ</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Uvular_nasal" title="Uvular nasal">ɴ</a></span></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Stop_consonant" title="Stop consonant">Stop</a></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_bilabial_stop" title="Voiceless bilabial stop">p</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_bilabial_stop" title="Voiced bilabial stop">b</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_labiodental_stop" title="Voiceless labiodental stop">p̪</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_labiodental_stop" title="Voiced labiodental stop">b̪</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_dental_stop" title="Voiceless dental stop">t̪</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_dental_stop" title="Voiced dental stop">d̪</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_stop" title="Voiceless alveolar stop">t</a></span></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_alveolar_stop" title="Voiced alveolar stop">d</a></span></td>
+<td style="border:1px solid; border-left:none;" colspan="2"></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_retroflex_stop" title="Voiceless retroflex stop">ʈ</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_retroflex_stop" title="Voiced retroflex stop">ɖ</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none; border-right:none"></td>
+<td style="border:1px solid; border-right:none; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palatal_stop" title="Voiceless palatal stop">c</a></span></td>
+<td style="border:1px solid; border-left:none; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_palatal_stop" title="Voiced palatal stop">ɟ</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_velar_stop" title="Voiceless velar stop">k</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_velar_stop" title="Voiced velar stop">ɡ</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_uvular_stop" title="Voiceless uvular stop">q</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_uvular_stop" title="Voiced uvular stop">ɢ</a></span></td>
+<td style="border:1px solid; background:#fff" colspan="2"></td>
+<td style="border:1px solid" colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Epiglottal_stop" title="Epiglottal stop">ʡ</a></span></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Glottal_stop" title="Glottal stop">ʔ</a></span></td>
+<td style="border:1px solid; border-left:none; background:#ccc"></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Sibilant_consonant" title="Sibilant consonant" class="mw-redirect">Sibilant fricative</a></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_dental_sibilant" title="Voiceless dental sibilant" class="mw-redirect">s̪</a></span></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_dental_sibilant" title="Voiced dental sibilant" class="mw-redirect">z̪</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_sibilant" title="Voiceless alveolar sibilant" class="mw-redirect">s</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_alveolar_sibilant" title="Voiced alveolar sibilant" class="mw-redirect">z</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palato-alveolar_sibilant" title="Voiceless palato-alveolar sibilant">ʃ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_palato-alveolar_sibilant" title="Voiced palato-alveolar sibilant">ʒ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_retroflex_sibilant" title="Voiceless retroflex sibilant">ʂ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_retroflex_sibilant" title="Voiced retroflex sibilant">ʐ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolo-palatal_sibilant" title="Voiceless alveolo-palatal sibilant">ɕ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_alveolo-palatal_sibilant" title="Voiced alveolo-palatal sibilant">ʑ</a></span></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+<td style="border:1px solid; background:#ccc;" colspan="2"></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Fricative_consonant" title="Fricative consonant">Non-sibilant fricative</a></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_bilabial_fricative" title="Voiceless bilabial fricative">ɸ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none; vertical-align:middle;" rowspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_bilabial_fricative" title="Voiced bilabial fricative">β</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_labiodental_fricative" title="Voiceless labiodental fricative">f</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_labiodental_fricative" title="Voiced labiodental fricative">v</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_dental_non-sibilant_fricative" title="Voiceless dental non-sibilant fricative" class="mw-redirect">θ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none; vertical-align:middle;" rowspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_dental_non-sibilant_fricative" title="Voiced dental non-sibilant fricative" class="mw-redirect">ð</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_non-sibilant_fricative" title="Voiceless alveolar non-sibilant fricative" class="mw-redirect">θ̱</a></span></td>
+<td style="width:1.5em; border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_alveolar_non-sibilant_fricative" title="Voiced alveolar non-sibilant fricative" class="mw-redirect">ð̠</a></span></td>
+<td style="width:1.5em; border:1px solid; border-width:1px 0"></td>
+<td style="width:1.5em; border:1px solid; border-left:none"></td>
+<td style="width:1.5em; border:1px solid; border-right:none"></td>
+<td style="width:1.5em; border:1px solid; border-left:none"></td>
+<td style="width:1.5em; border:1px solid; border-right:none"></td>
+<td style="width:1.5em; border:1px solid; border-left:none; border-right:none"></td>
+<td style="width:1.5em; border:1px solid; border-left:none; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palatal_fricative" title="Voiceless palatal fricative">ç</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_palatal_fricative" title="Voiced palatal fricative">ʝ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_velar_fricative" title="Voiceless velar fricative">x</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_velar_fricative" title="Voiced velar fricative">ɣ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_uvular_fricative" title="Voiceless uvular fricative">χ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none; vertical-align:middle;" rowspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_uvular_fricative" title="Voiced uvular fricative">ʁ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_pharyngeal_fricative" title="Voiceless pharyngeal fricative">ħ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none; vertical-align:middle;" rowspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_pharyngeal_fricative" title="Voiced pharyngeal fricative">ʕ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_epiglottal_fricative" title="Voiceless epiglottal fricative">ʜ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none; vertical-align:middle;" rowspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_epiglottal_fricative" title="Voiced epiglottal fricative">ʢ</a></span></td>
+<td style="width:1.5em; border:1px solid; border-right:none" rowspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_glottal_fricative" title="Voiceless glottal fricative">h</a></span></td>
+<td style="width:1.5em; border:1px solid; border-left:none; vertical-align:middle;" rowspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_glottal_fricative" title="Voiced glottal fricative">ɦ</a></span></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Approximant_consonant" title="Approximant consonant">Approximant</a></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Labiodental_approximant" title="Labiodental approximant">ʋ</a></span></td>
+<td style="border:1px solid; border-width:1px 0"></td>
+<td style="border:1px solid; border-width:1px 0"></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolar_approximant" title="Alveolar approximant">ɹ</a></span></td>
+<td style="border:1px solid; border-left:none;" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Retroflex_approximant" title="Retroflex approximant">ɻ</a></span></td>
+<td style="border:1px solid; border-right:none; border-left:none"></td>
+<td style="border:1px solid; border-left:none; border-right:none"></td>
+<td style="border:1px solid; border-left:none; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palatal_approximant" title="Voiceless palatal approximant">j̊</a></span></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Palatal_approximant" title="Palatal approximant">j</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Velar_approximant" title="Velar approximant">ɰ</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-right:none"></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Flap_consonant" title="Flap consonant">Flap or tap</a></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span class="IPA"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Bilabial_flap" title="Bilabial flap">ⱱ̟</a></span></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span class="IPA"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Labiodental_flap" title="Labiodental flap">ⱱ</a></span></span></td>
+<td style="border:1px solid; border-right:none;" colspan="2"></td>
+<td style="border:1px solid; border-width:1px 0"></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolar_tap" title="Alveolar tap" class="mw-redirect">ɾ</a></span></td>
+<td style="border:1px solid; border-left:none;" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Retroflex_flap" title="Retroflex flap">ɽ</a></span></td>
+<td style="border:1px solid" colspan="4"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Uvular_flap" title="Uvular flap">ɢ̆</a></span></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Epiglottal_flap" title="Epiglottal flap">ʡ̯</a></span></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Trill_consonant" title="Trill consonant">Trill</a></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Bilabial_trill" title="Bilabial trill">ʙ</a></span></td>
+<td style="border:1px solid" colspan="2"></td>
+<td style="border:1px solid; border-right:none;" colspan="2"></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_trill" title="Voiceless alveolar trill" class="mw-redirect">r̥</a></span></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolar_trill" title="Alveolar trill">r</a></span></td>
+<td style="border:1px solid; border-left:none;" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Retroflex_trill" title="Retroflex trill">ɽ͡r</a></span></td>
+<td style="border:1px solid" colspan="4"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Uvular_trill" title="Uvular trill">ʀ</a></span></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Epiglottal_trill" title="Epiglottal trill">ᴙ</a></span> *</td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Lateral_consonant" title="Lateral consonant">Lateral</a>&nbsp;<a href="/wiki/Fricative_consonant" title="Fricative consonant">fricative</a></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; border-right:none;" colspan="2"></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_lateral_fricative" title="Voiceless alveolar lateral fricative">ɬ</a></span></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_alveolar_lateral_fricative" title="Voiced alveolar lateral fricative">ɮ</a></span></td>
+<td style="border:1px solid; border-left:none;" colspan="2"></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_retroflex_lateral_fricative" title="Voiceless retroflex lateral fricative">ꞎ</a></span> *</td>
+<td style="border:1px solid; border-left:none"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-right:none; border-left:none"></td>
+<td style="border:1px solid; border-left:none; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palatal_lateral_fricative" title="Voiceless palatal lateral fricative">ʎ̝̊</a></span></td>
+<td style="border:1px solid; border-left:none"></td>
+<td style="border:1px solid; border-right:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_velar_lateral_fricative" title="Voiceless velar lateral fricative">ʟ̝̊</a></span></td>
+<td style="width:0.5em; border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_velar_lateral_fricative" title="Voiced velar lateral fricative">ʟ̝</a></span></td>
+<td style="border:1px solid" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 0px 1px"><a href="/wiki/Lateral_consonant" title="Lateral consonant">Lateral</a>&nbsp;<a href="/wiki/Approximant_consonant" title="Approximant consonant">approximant</a></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; border-right:none;" colspan="2"></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_lateral_approximant" title="Voiceless alveolar lateral approximant" class="mw-redirect">l̥</a></span></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolar_lateral_approximant" title="Alveolar lateral approximant">l</a></span></td>
+<td style="border:1px solid; border-left:none;" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Retroflex_lateral_approximant" title="Retroflex lateral approximant">ɭ</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-right:none; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolo-palatal_lateral_approximant" title="Alveolo-palatal lateral approximant" class="mw-redirect">ʎ̟</a></span></td>
+<td style="border:1px solid; border-left:none; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Palatal_lateral_approximant" title="Palatal lateral approximant">ʎ</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Velar_lateral_approximant" title="Velar lateral approximant">ʟ</a></span></td>
+<td style="border:1px solid" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+</tr>
+<tr>
+<td style="font-size:67%; text-align:left; border:2px solid; border-width:0px 2px 1px 1px"><a href="/wiki/Lateral_flap" title="Lateral flap">Lateral flap</a></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; border-right:none;" colspan="2"></td>
+<td style="border:1px solid; border-width:1px 0"></td>
+<td style="border:1px solid; border-width:1px 0"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolar_lateral_flap" title="Alveolar lateral flap">ɺ</a></span></td>
+<td style="border:1px solid; border-left:none;" colspan="2"></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Retroflex_lateral_flap" title="Retroflex lateral flap">ɺ̢</a></span> *</td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-right:none; border-left:none"></td>
+<td style="border:1px solid; border-left:none; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Palatal_lateral_flap" title="Palatal lateral flap">ʎ̯</a></span></td>
+<td style="border:1px solid; border-right:none"></td>
+<td style="border:1px solid; border-left:none"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Velar_lateral_flap" title="Velar lateral flap" class="mw-redirect">ʟ̆</a></span></td>
+<td style="border:1px solid" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+<td style="border:1px solid; background:#ccc" colspan="2"></td>
+</tr>
+</tbody>
+ 	

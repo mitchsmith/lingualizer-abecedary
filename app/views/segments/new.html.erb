@@ -1,0 +1,234 @@
+<h1>New Segment</h1>
+<%= form_for :segment, url: segments_path do |f| %>
+  <hr>
+  <dl>
+    <dt><%= f.label :ipa_symbol %></dt>
+    <dd><%= f.text_field :ipa_symbol %></dd>
+  </dl>
+
+  <hr>
+
+  <dl> 
+    <dt><%= f.label :sampa_symbol %></dt>
+    <dd><%= f.text_field :sampa_symbol %></dd>
+ 
+    <dt><%= f.label :cmudict_symbol %></dt>
+    <dd><%= f.text_field :cmudict_symbol %></dd>
+ 
+    <dt><%= f.label :name %></dt>
+    <dd><%= f.text_field :name %></dd>
+
+    <dt><%= f.label :discription %></dt>
+    <dd><%= f.text_area :description %></dd>
+  </dl>
+
+  <hr>
+
+  <p>
+    IPA Chart Locations:<br>
+    Bila­bial, Labio-dental, Dental, Alveolar, Post­alveolar, Retroflex, Alveolo-palatal, Palatal, Velar, Uvular, Pharyngeal, Epiglottal, Glottal<br>
+    (Vowel height): Close, Near-close, Close-mid, Mid, Open-mid, Near-Open, Open<br>
+    (Vowel Frontnes): Front, Near-front, Central, Near-back, Back<br>
+    IPA Types: Pulmonic Consonant, Non-pulmonic Consonant, Affricate, Co-articulated Consonant, Vowel, Dyphthong<br>
+    IPA Chart Manner:<br>
+    Pulmonic Consonants:<br>
+    Nasal, Stop, Sibilant fricative' Non-sibilant fricative, Approximant, Flap or tap, Trill, Lateral fricative, Lateral approximant, Lateral flap<br>
+    Non-pulmonic Consonants: Click, Implosive, Ejective<br>
+    Affricates and other Co-articulated Consonants: Cantinuant, Occlusive
+  </p>
+
+  <dl>
+    <dt><%= f.label :ipa_place %></dt>
+    <dd><%= f.text_field :ipa_place %></dd>
+  
+    <dt><%= f.label :ipa_type %></dt>
+    <dd><%= f.text_field :ipa_type %></dd>
+
+    <dt><%= f.label :ipa_manner %></dt>
+    <dd><%= f.text_field :ipa_manner %></dd>
+  </dl> 
+
+  <hr>
+
+  <p>
+   Distinctive Features
+  </p>
+
+  <dl>
+    <dt>Major Class Features:</dt> 
+    <dt><%= f.label :sylabic %></dt>
+    <dd><%= f.radio_button :sylabic, true %> 
+        <%= label :sylabic_true, '[+]' %>
+        <%= f.radio_button :sylabic, false %>
+        <%= label :sylabic_false, '[-]' %>
+    </dd>
+   
+    <dt><%= f.label :consonantal %></dt>
+    <dd><%= f.radio_button :consonantal, true %> 
+        <%= label :conantal_true, '[+]' %>
+        <%= f.radio_button :consonantal, false %>
+        <%= label :consonantal_false, '[-]' %>
+    </dd>
+   
+    <dt><%= f.label :aproximant %></dt>
+    <dd><%= f.radio_button :aproximant, true %> 
+        <%= label :aproximant_true, '[+]' %>
+        <%= f.radio_button :aproximant, false %>
+        <%= label :aproximant_false, '[-]' %>
+    </dd>
+   
+    <dt><%= f.label :sonorant %></dt>
+    <dd><%= f.radio_button :sonorant, true %> 
+        <%= label :sonorant_true, '[+]' %>
+        <%= f.radio_button :sonorant, false %>
+        <%= label :sonorant_false, '[-]' %>
+    </dd>
+
+    <dt>Laryngeal Features:</dt>    
+    <dt><%= f.label :voice %></dt>
+    <dd><%= f.radio_button :voice, true %> 
+        <%= label :voice_true, '[+]' %>
+        <%= f.radio_button :voice, false %>
+        <%= label :voice_false, '[-]' %>
+    </dd>
+   
+    <dt><%= f.label :spread_glotis %></dt>
+    <dd><%= f.radio_button :spread_glotis, true %> 
+        <%= label :spread_glotis_true, '[+]' %>
+        <%= f.radio_button :spread_glotis, false %>
+        <%= label :spread_glotis_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :constricted_glotis %></dt>
+    <dd><%= f.radio_button :constricted_glotis, true %> 
+        <%= label :constricted_glotis_true, '[+]' %>
+        <%= f.radio_button :constricted_glotis, false %>
+        <%= label :constricted_glotis_false, '[-]' %>
+    </dd>
+
+    <dt>Manner Features:</dt>    
+    <dt><%= f.label :continuant %></dt>
+    <dd><%= f.radio_button :continuant, true %> 
+        <%= label :continuant_true, '[+]' %>
+        <%= f.radio_button :continuant, false %>
+        <%= label :continuant_false, '[-]' %>
+    </dd>
+   
+    <dt><%= f.label :nasal %></dt>
+    <dd><%= f.radio_button :nasal, true %> 
+        <%= label :nasal_true, '[+]' %>
+        <%= f.radio_button :nasal, false %>
+        <%= label :nasal_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :strident %></dt>
+    <dd><%= f.radio_button :strident, true %> 
+        <%= label :strident_true, '[+]' %>
+        <%= f.radio_button :strident, false %>
+        <%= label :strident_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :lateral %></dt>
+    <dd><%= f.radio_button :lateral, true %> 
+        <%= label :lateral_true, '[+]' %>
+        <%= f.radio_button :lateral, false %>
+        <%= label :lateral_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :delayed_release %></dt>
+    <dd><%= f.radio_button :delayed_release, true %> 
+        <%= label :delayed_release_true, '[+]' %>
+        <%= f.radio_button :delayed_release, false %>
+        <%= label :delayed_release_false, '[-]' %>
+    </dd>
+
+    <dt>Place Features:</dt>    
+    <dt><%= f.label 'LABIAL' %></dt>
+    <dd><%= f.radio_button :labial, true %> 
+        <%= label :labial_true, '[+]' %>
+        <%= f.radio_button :labial, false %>
+        <%= label :labial_false, '[-]' %>
+    </dd>
+   
+    <dt><%= f.label :round %></dt>
+    <dd><%= f.radio_button :round, true %> 
+        <%= label :round_true, '[+]' %>
+        <%= f.radio_button :round, false %>
+        <%= label :round_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label 'CORONAL' %></dt>
+    <dd><%= f.radio_button :coronal, true %> 
+        <%= label :coronal_true, '[+]' %>
+        <%= f.radio_button :coronal, false %>
+        <%= label :coronal_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :anterior %></dt>
+    <dd><%= f.radio_button :anterior, true %> 
+        <%= label :anterior_true, '[+]' %>
+        <%= f.radio_button :anterior, false %>
+        <%= label :anterior_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :distributed %></dt>
+    <dd><%= f.radio_button :distributed, true %> 
+        <%= label :distributed_true, '[+]' %>
+        <%= f.radio_button :distributed, false %>
+        <%= label :distributed_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label 'DORSAL' %></dt>
+    <dd><%= f.radio_button :dorsal, true %> 
+        <%= label :dorsal_true, '[+]' %>
+        <%= f.radio_button :dorsal, false %>
+        <%= label :dorsal_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :high %></dt>
+    <dd><%= f.radio_button :high, true %> 
+        <%= label :high_true, '[+]' %>
+        <%= f.radio_button :high, false %>
+        <%= label :high_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :low %></dt>
+    <dd><%= f.radio_button :low, true %> 
+        <%= label :low_true, '[+]' %>
+        <%= f.radio_button :low, false %>
+        <%= label :low_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :back %></dt>
+    <dd><%= f.radio_button :back, true %> 
+        <%= label :back_true, '[+]' %>
+        <%= f.radio_button :back, false %>
+        <%= label :back_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label :tense %></dt>
+    <dd><%= f.radio_button :tense, true %> 
+        <%= label :tense_true, '[+]' %>
+        <%= f.radio_button :tense, false %>
+        <%= label :tense_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label 'RADICAL' %></dt>
+    <dd><%= f.radio_button :radical, true %> 
+        <%= label :radical_true, '[+]' %>
+        <%= f.radio_button :radical, false %>
+        <%= label :radical_false, '[-]' %>
+    </dd>
+
+    <dt><%= f.label 'LARYNGEAL' %></dt>
+    <dd><%= f.radio_button :laryngeal, true %> 
+        <%= label :laryngeal_true, '[+]' %>
+        <%= f.radio_button :laryngeal, false %>
+        <%= label :laryngeal_false, '[-]' %>
+    </dd>
+
+  </dl>
+  <p>
+    <%= f.submit %>
+  </p>
+<% end %>

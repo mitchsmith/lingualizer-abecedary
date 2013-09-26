@@ -1,0 +1,12 @@
+
+<%= @segment.attributes.each do |k,v| %>
+  <% if (v) %>
+    <p>
+      <strong><%= k %>:</strong>
+      <%= v %>
+    </p>
+  <% end %>
+<% end %>
+<p><%= link_to 'Edit', edit_segment_path %> | 
+<%= link_to 'Back', segments_path %>
+</p>

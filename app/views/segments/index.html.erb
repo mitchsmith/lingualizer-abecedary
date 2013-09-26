@@ -1,0 +1,23 @@
+<h1>Segments</h1>
+<p><%= link_to 'New segment', new_segment_path %></p>
+<table>
+  <tr>
+    <th>IPA Symbol</th>
+    <th>Description</th>
+    <!-- th>Place</th -->
+    <!-- th>Manner</th -->
+    <th>Type</th>
+  </tr>
+ 
+  <% @segments.each do |segment| %>
+    <tr>
+      <td><%= link_to segment.ipa_symbol, segment_path(segment) %></td>
+      <td><%= segment.description %></td>
+      <!-- td><%= segment.ipa_place %></td -->
+      <!-- td><%= segment.ipa_manner %></td -->
+      <td><%= segment.ipa_type %></td>
+    </tr>
+  <% end %>
+</table>
+
+ 
