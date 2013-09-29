@@ -12,7 +12,16 @@ update segments set approximant = 1 where ipa_manner not in ('nasal','stop','fri
 
 select id, ipa_symbol, description, sylabic, consonantal, aproximant from segments where aproximant = 1;
 
-update segments set sonorant = 1 where ipa_manner in ('nasal','approximant') or ipa_type = "Vowel";
-update segments set sonoroant = 0 where sonorant IS NULL;
+update segments set sonorant = 1 where ipa_manner in ('nasal', 'approximant', 'flap', 'tap', 'trill') or ipa_type = "Vowel";
+update segments set sonorant = 0 where sonorant IS NULL;
 
-select id, ipa_symbol, description, sylabic, consonantal, aproximant from segments where ipa_manner in ('nasal','approximant') or ipa_type = "Vowel";
+select id, ipa_symbol, description, sylabic, consonantal, aproximant from segments where ipa_manner in ('nasal','approximant', 'flap', 'tap', 'trill') or ipa_type = "Vowel";
+
+select id, ipa_symbol, description, sylabic, consonantal, aproximant from segments where description like "%voiced%" or ipa_type = "Vowel";
+update segments set voice = 1 where description like "%voiced%" or ipa_type = "Vowel";
+update segments set voice = 0 where voice is NULL and sonorant = 0;
+update segments set voice = 1 where voice is NULL and sonorant = 1;
+
+select id, ipa_symbol, description, sylabic, consonantal, aproximant, sonorant where sonorant = true and (description like "%fricative%" or description like "%sibilant");
+update segments set continuant = 1 where description not like "%affricate%" and (description like "%fricative%" or description like "%sibilant%");
+update segments set continuant = 1 where sonorant = 1;
