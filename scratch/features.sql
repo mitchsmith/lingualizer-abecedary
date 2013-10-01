@@ -42,4 +42,29 @@ select id, ipa_symbol, description from segments where (description like "%sibil
 update segments set strident = 1 where (description like "%sibilant%" or description like "%fric%") and (description like "% sibilant%" or description like "%labiodental%" or description like "%uvular%");
 update segments set strident = 0 where strident is NULL;
 
+update segments set constricted_glotis = 1 where description like "%ejective%" or description like "%implosive%" or description like "%glottal%" or description like "%approximant%" or ipa_type = "Vowel";
+update segments set constricted_glotis = 0 where constricted_glotis is NULL;
+
+update segments set delayed_release = 1 where description like "%affricate%";
+update segments set delayed_release = 0 where delayed_release is NULL;
+
+update segments set labial = 1 where description like "%labi%";
+update segments set labial = 0 where labial is NULL;
+
+update segments set round = 1 where description like "% round%";
+update segments set round = 1 where labial = 1 and description like "%approximant%";
+update segments set labial = 1 where round = 1;
+
+update segments set coronal = 1 where description like "%dental%" or description like "%alveol%" or description like "%palat%";
+update segments set coronal = 0 where coronal is NULL;
+
+update segments set anterior = 1 where description like "%labi%" or description like "%dental%" or description like "% alveolar %";
+update segments set anterior = 1 where anterior is NULL and description like "%alveolar%" and description not like "%palat%" and description not like "%postalveolar%";
+update segments set anterior = 0 where anterior = NULL;
+
+
+
+update segments set dorsal = 1 where ipa_type = "Vowel" or description like "%velar%" or description like "%uvular%";
+update segments set dorsal = 0 where dorsal is NULL;
+
 
