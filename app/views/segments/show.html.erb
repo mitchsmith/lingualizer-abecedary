@@ -1,6 +1,6 @@
 
 <%= @segment.attributes.each do |k,v| %>
-  <% if (v) %>
+  <% if (v != nil) %>
     <p>
       <strong><%= k %>:</strong>
       <%= v %>
